@@ -9,13 +9,13 @@
         "FileExtension": "ctf",
         "FilePrefix": "S9 D2 ",
         "FileSuffix": "",
-        "FilterVersion": "6.5.83",
+        "FilterVersion": "6.5.138",
         "Filter_Enabled": true,
         "Filter_Human_Label": "Import Orientation File(s) to H5EBSD",
         "Filter_Name": "EbsdToH5Ebsd",
         "Filter_Uuid": "{6e332fca-0475-5fec-821e-e01f668ec1d3}",
-        "InputPath": "C:\\Users\\s199500\\OneDrive - Cranfield University\\Desktop\\Practice\\Orientation_Files",
-        "OutputFile": "C:\\Users\\s199500\\OneDrive - Cranfield University\\Desktop\\Practice\\D4scan.h5ebsd",
+        "InputPath": "C:\\Users\\e805715\\Downloads\\ebi\\Orientation_Files",
+        "OutputFile": "C:/Users/e805715/Downloads/ebi/D4scan.h5ebsd",
         "PaddingDigits": 1,
         "RefFrameZDir": 0,
         "SampleTransformation": {
@@ -29,7 +29,7 @@
         "ZStartIndex": "1"
     },
     "PipelineBuilder": {
-        "Name": "Import_Orientation",
+        "Name": "1_Import_Orientation",
         "Number_Filters": 1,
         "Version": 6
     }
